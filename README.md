@@ -13,3 +13,7 @@ During this build, we will only be building quick web pages to gain the knowledg
 3. Open our command line. Create the new files that we will need for our new project. Such as the html file and a file that can hold our js and css if we decide to create those later within the project. Next.
 4. Now we have created the html file. We have created a new folder called assets. Within that folder we have created three sub-folders. One folder for the following; css files, images files, and js files. Next.
 5. Create our save points and commit these new changes to the file.
+6. Copy the template starter code that we are going to use to follow along with the bootstrap-four lesson. Next.
+7. After using the code to create our starter template. Use one of the class selectors to test that the bootstrap tools are installed properly within the html file. 
+8. Test and run all the code that we have now created within our html file. The bootstrap class selectors work as they should. Next.
+ 
