@@ -19,3 +19,7 @@ During this build, we will only be building quick web pages to gain the knowledg
 9. Pick back up where we left off, with using the bootstrap four library
 10. Apply bootstrap components to understand some of the key differences and to understand why we would like to use the template provided for bootstrap. All the tools that we need to apply the bootstrap content will be accesible with the links that we have within our file.
 11. Test and run the code components that we have applied to our file. All working as it should.
+12. Walk through the new differences within the bootstrap four docs. Understanding how to search through the bootstrap four docs.
+13. Clear all the current content that we have within the html file, bring the file down to the starter template that we began with. Begin using the content from the new section that we are walking through.
+14. Use the content from within the utilities section, using the new colors and class names to change the color of the text.
+15. 
