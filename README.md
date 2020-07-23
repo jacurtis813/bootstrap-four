@@ -36,3 +36,7 @@ During this build, we will only be building quick web pages to gain the knowledg
 26. Further changes. No longer have the use for the blockquote reverse, this would place the quote and the citation to the right. We can simply use the call for text-right which will text-align the content to the right as we would have done with the reverse property.
 27. Further chagnes. The font unit has changed from the px units to the Rem units instead. This has now been adopted for the primary css font unit.
 28. Continue the video walk through of bootstrap four. Using the borders utilities. 
+29. Create the html file from the command line for the further lessons on the bootstrap changes. Save and commit those changes within the file.
+30. Create the template and clear the existing code from the file to further use as the template for the section of utilities.
+31. Save all changes within the html file. Commit these changes and additions.
+32. 
