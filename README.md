@@ -49,3 +49,7 @@ During this build, we will only be building quick web pages to gain the knowledg
 39. Create multiple buttons. Open within the browser to use the google chrome dev tools to see how and what the units are set to. While also using the bootstrap classes to call each color change.
 40. Understand how to apply the padding or the margin to only one sides, two side or even all sides. Next.
 41. Save all changes within the html file and within the folder of the project. Commit. 
+42. Continue with the video lecture walk through to better understand how we can edit specific breakpoints within our web pages.
+43. There will be no code along for this section. This section of video, V# 96 is more for tutorial and demonstration of how to.
+44. Section will mainly cover the use of the media-queries for those breakpoints within our webpage. One example made within the second html file. No xs for 0. Will only default that way. One example set for this.
+45. 

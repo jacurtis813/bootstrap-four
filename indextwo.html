@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <div class="container text-center">
         <!-- Begin using the border utility -->
         <h1 class="text-center display-1">Utilities Section</h1>
 
@@ -23,17 +23,41 @@
         <h5 class="border border-danger">I am a red colorder border style.</h5>
 
         <h5 class="border border-success rounded">I am a green colored border style.</h5>
-    </div>
-    <!-- End of border styles -->
 
-    <!-- Button style, How to-->
-    <button class="btn btn-primary p-0">Hello There</button><br />
-    <button class="btn btn-secondary py-1">Hello There</button><br />
-    <button class="btn btn-success px-2">Hello There</button><br />
-    <button class="btn btn-warning pb-3">Hello There</button><br />
-    <button class="btn btn-danger p-4">Hello There</button><br />
-    <button class="btn btn-info pt-5">Hello There</button><br />
-    <!-- End of Button -->
+        <!-- End of border styles -->
+
+        <!-- Button style, How to-->
+        <button class="btn btn-primary p-0">Hello There</button>
+        <button class="btn btn-secondary py-1">Hello There</button>
+        <button class="btn btn-success px-2">Hello There</button><br />
+        <button class="btn btn-warning pb-3">Hello There</button>
+        <button class="btn btn-danger p-4">Hello There</button>
+        <button class="btn btn-info pt-5">Hello There</button><br />
+        <!-- End of Button -->
+
+        <!-- Media Query Change, How to 
+    calling for the change at the small screen size:
+    we have called padding of value 4 at the small screen size-->
+        <button class="btn btn-warning p-sm-4">Hello There</button>
+        <button class="btn btn-warning p-0 p-sm-2 p-md-3 p-lg-4 p-xl-5">Hello There</button> <br />
+        <!-- End example -->
+
+        <!-- Create the paragraphs to give some space between the examples -->
+        <p>These buttons above will show the difference with the padding changes.</p>
+
+        <hr />
+
+        <p>These buttons above will show the difference with the margin changes.</p>
+        <!-- End of paragraphs -->
+        
+        <!-- Media Query Margin Changes, How to-->
+        <button class="btn btn-primary p-4 mx-xl-5">Breakpoint</button>
+        <button class="btn btn-primary p-4 mx-xl-5">Will</button>
+        <button class="btn btn-primary p-4 mx-xl-5">Change</button>
+        <button class="btn btn-primary p-4 mx-xl-5">Margin</button>
+        <!-- End of Margin -->
+
+    </div>
 
     <a type="link" href="index.html">Click: Home Page</a>
 
