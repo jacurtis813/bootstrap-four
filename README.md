@@ -39,4 +39,8 @@ During this build, we will only be building quick web pages to gain the knowledg
 29. Create the html file from the command line for the further lessons on the bootstrap changes. Save and commit those changes within the file.
 30. Create the template and clear the existing code from the file to further use as the template for the section of utilities.
 31. Save all changes within the html file. Commit these changes and additions.
-32. 
+32. Create the anchor tags to create the link from the first page of content to the second page of content. Create the anchor tag to go from the second page of content back to the first.
+33. Create the main heading for the utilities section. We will start with using the border utility. 
+34. Apply the comments to both of the html files that we have created to keep things organized and understood for later reference. 
+35. Create the border styles using the border utilities. Apply the comments around this new section.
+36. Save all changes within the folder. Save all files. Commit.
