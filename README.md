@@ -16,4 +16,6 @@ During this build, we will only be building quick web pages to gain the knowledg
 6. Copy the template starter code that we are going to use to follow along with the bootstrap-four lesson. Next.
 7. After using the code to create our starter template. Use one of the class selectors to test that the bootstrap tools are installed properly within the html file. 
 8. Test and run all the code that we have now created within our html file. The bootstrap class selectors work as they should. Next.
- 
+9. Pick back up where we left off, with using the bootstrap four library
+10. Apply bootstrap components to understand some of the key differences and to understand why we would like to use the template provided for bootstrap. All the tools that we need to apply the bootstrap content will be accesible with the links that we have within our file.
+11. Test and run the code components that we have applied to our file. All working as it should.
