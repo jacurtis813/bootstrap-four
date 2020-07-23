@@ -52,4 +52,12 @@ During this build, we will only be building quick web pages to gain the knowledg
 42. Continue with the video lecture walk through to better understand how we can edit specific breakpoints within our web pages.
 43. There will be no code along for this section. This section of video, V# 96 is more for tutorial and demonstration of how to.
 44. Section will mainly cover the use of the media-queries for those breakpoints within our webpage. One example made within the second html file. No xs for 0. Will only default that way. One example set for this.
-45. 
+45. Perform all the examples of how to apply the padding and the margin. Along with the breakpoint changes and how to. Comment all new code content.
+46. Save all changes. Complete the lectures for this section. Commit.
+47. Continue the next video lecture and walk through, this section will review the navbar use. Review the list of changes. The ability to have the nav bar go into the js 'hamburger-style' menu at the screen size that we specify. Must give your own background color through the use of the css file.
+48. No code along with this section of the navbar, walking through what classes have been removed and how to perform those changes within bs four. 
+49. Using the display utility within bs4. How to hide elements within specific screen sizes rather than rewriting the entire element or style for different screen sizes.
+50. Create the display utility within the html file and see how we can use these classes to hide elements. Comment the newly created code within the html file.
+51. Continue the video lecture. Using the display utility and hiding elements, creating the examples in both of the html files. Rememeber that we can always use the bootstrap documentation to refer back.
+52. Save all changes. Complete the lectures for the entire section. Section 8 completed. Commit. 
+
