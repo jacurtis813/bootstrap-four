@@ -21,5 +21,10 @@ During this build, we will only be building quick web pages to gain the knowledg
 11. Test and run the code components that we have applied to our file. All working as it should.
 12. Walk through the new differences within the bootstrap four docs. Understanding how to search through the bootstrap four docs.
 13. Clear all the current content that we have within the html file, bring the file down to the starter template that we began with. Begin using the content from the new section that we are walking through.
-14. Use the content from within the utilities section, using the new colors and class names to change the color of the text.
-15. 
+14. Use the content from within the utilities section, using the new colors and class names to change the color of the text. Next.
+15. Test and run the code content that we have now applied to the html file. All working as should. 
+16. Continue the video tutorial walk-through. Clear all the html code that we currently have so that we can test and understand the typography section of bootstrap four.
+17. Begin the typography section by using and creating the code for the headings. Next.
+18. Continue to style the typography of the page using the new way of usint the blockqoute class along with the element name. Next.
+19. Test and run all the code and code components that we have built into our html file. All code tested and working well. 
+20. Update the readme file. Save all new additions and changes that have been made. Make a commit.
