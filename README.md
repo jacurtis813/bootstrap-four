@@ -42,5 +42,10 @@ During this build, we will only be building quick web pages to gain the knowledg
 32. Create the anchor tags to create the link from the first page of content to the second page of content. Create the anchor tag to go from the second page of content back to the first.
 33. Create the main heading for the utilities section. We will start with using the border utility. 
 34. Apply the comments to both of the html files that we have created to keep things organized and understood for later reference. 
-35. Create the border styles using the border utilities. Apply the comments around this new section.
+35. Create the border styles using the border utilities. Apply the comments around this new section. How to add and subtract those styles within the border.
 36. Save all changes within the folder. Save all files. Commit.
+37. After working with the border utility. We will begin working with the margin and padding utility and how to apply them.
+38. Create the button using the bootstrap class names. Create the button for demostration on how to use the margin and padding property styles.
+39. Create multiple buttons. Open within the browser to use the google chrome dev tools to see how and what the units are set to. While also using the bootstrap classes to call each color change.
+40. Understand how to apply the padding or the margin to only one sides, two side or even all sides. Next.
+41. Save all changes within the html file and within the folder of the project. Commit. 
