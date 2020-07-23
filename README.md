@@ -28,3 +28,8 @@ During this build, we will only be building quick web pages to gain the knowledg
 18. Continue to style the typography of the page using the new way of usint the blockqoute class along with the element name. Next.
 19. Test and run all the code and code components that we have built into our html file. All code tested and working well. 
 20. Update the readme file. Save all new additions and changes that have been made. Make a commit.
+21. Pick up where we left off. Typography section lecture. Working with the blockqoute features.
+22. Looking over the visual differences with new feature of blockqoute using/ calling the class name.
+23. Understand and use the new classes to call the properties and values that we would like to use for the qoute and the citation from who.
+24. Copy and use the source code for these two pieces of content. Load to see the visual differences from bootstrap three to bootstrap four.
+25. 
