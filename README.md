@@ -60,4 +60,10 @@ During this build, we will only be building quick web pages to gain the knowledg
 50. Create the display utility within the html file and see how we can use these classes to hide elements. Comment the newly created code within the html file.
 51. Continue the video lecture. Using the display utility and hiding elements, creating the examples in both of the html files. Rememeber that we can always use the bootstrap documentation to refer back.
 52. Save all changes. Complete the lectures for the entire section. Section 8 completed. Commit. 
+53. Next lecture we will begin with the bootstrap use of the flexbox and the layout. Continue the video lecture and the walk through code alongs. Review the changes and the content of this new section.
+54. Begin the flexbox section by creating a new contatiner to hold the content for the use of the flexbox utility. Now we will learn how we can move them around. 
+55. Create our first css style so that we can use the area inside the border to move the buttons around using the flexbox utility. Flex direection will refer- left to right. Cross direction will refer- top to bottom.
+56. Using the styles to create the space around the buttons using the justify content property from the bs4 class- source code content. Now we can also use the class of align items which will float these items either from top or bottom. 
+57. Test and run all the source code content that we either copied or that we have typed into the html file and the css file. Create our css link and make sure that all newly created code is working as it should.
+58. Complete the flexbox video lecture and code along walk through. Save all changes. Complete lecture for now. Save and Commit. 
 
