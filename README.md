@@ -25,11 +25,14 @@ During this build, we will only be building quick web pages to gain the knowledg
 15. Test and run the code content that we have now applied to the html file. All working as should. 
 16. Continue the video tutorial walk-through. Clear all the html code that we currently have so that we can test and understand the typography section of bootstrap four.
 17. Begin the typography section by using and creating the code for the headings. Next.
-18. Continue to style the typography of the page using the new way of usint the blockqoute class along with the element name. Next.
+18. Continue to style the typography of the page using the new way of usint the blockquote class along with the element name. Next.
 19. Test and run all the code and code components that we have built into our html file. All code tested and working well. 
 20. Update the readme file. Save all new additions and changes that have been made. Make a commit.
-21. Pick up where we left off. Typography section lecture. Working with the blockqoute features.
-22. Looking over the visual differences with new feature of blockqoute using/ calling the class name.
-23. Understand and use the new classes to call the properties and values that we would like to use for the qoute and the citation from who.
+21. Pick up where we left off. Typography section lecture. Working with the blockquote features.
+22. Looking over the visual differences with new feature of blockquote using/ calling the class name.
+23. Understand and use the new classes to call the properties and values that we would like to use for the blockquote and the citation from who.
 24. Copy and use the source code for these two pieces of content. Load to see the visual differences from bootstrap three to bootstrap four.
-25. 
+25. Test and run all the code that we currently have created within our html file to see all visual differences. Save all changes.
+26. Further changes. No longer have the use for the blockquote reverse, this would place the quote and the citation to the right. We can simply use the call for text-right which will text-align the content to the right as we would have done with the reverse property.
+27. Further chagnes. The font unit has changed from the px units to the Rem units instead. This has now been adopted for the primary css font unit.
+28. Continue the video walk through of bootstrap four. Using the borders utilities. 
