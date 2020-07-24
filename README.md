@@ -66,4 +66,7 @@ During this build, we will only be building quick web pages to gain the knowledg
 56. Using the styles to create the space around the buttons using the justify content property from the bs4 class- source code content. Now we can also use the class of align items which will float these items either from top or bottom. 
 57. Test and run all the source code content that we either copied or that we have typed into the html file and the css file. Create our css link and make sure that all newly created code is working as it should.
 58. Complete the flexbox video lecture and code along walk through. Save all changes. Complete lecture for now. Save and Commit. 
+59. Pick up where we left off with the bootstrap-four video lecture, start with the review. Watch the last video once again to review the content from yesterday.
+60. Understanding the source code of which classes to call on when styling for with the flexbox layout, we can perform the flex row reverse or even the flex column, these two features are both new as well. 
+61. Continue the video lecture with the navs and flexbox within the bootstrap docs. Building navs whiles using the flexbox. 
 
