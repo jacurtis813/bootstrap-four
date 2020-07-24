@@ -69,4 +69,9 @@ During this build, we will only be building quick web pages to gain the knowledg
 59. Pick up where we left off with the bootstrap-four video lecture, start with the review. Watch the last video once again to review the content from yesterday.
 60. Understanding the source code of which classes to call on when styling for with the flexbox layout, we can perform the flex row reverse or even the flex column, these two features are both new as well. 
 61. Continue the video lecture with the navs and flexbox within the bootstrap docs. Building navs whiles using the flexbox. 
+62. Copy and use the source code to create the navbar within the html file. Understand how the flexbox property and styling within bootstrap will come into play with the navbar. Understanding the use of the display property and the value of flex. 
+63. Using new and different utilities with the navbar feature. Remember that when we are working with content that has not been flexed, we will refer to the d-flex class, we will not have to call for that class when we are using other classes like the justify-content or the text-align properties.
+64. Walk through the bootstrap docs for this section to better understand the method of the styling. Apply different styles by searching through the docs for the source code that we want to apply.
+65. Test and run the code that we have created. Comment around the new code that we have used within this section.
+66. 
 
