@@ -73,5 +73,7 @@ During this build, we will only be building quick web pages to gain the knowledg
 63. Using new and different utilities with the navbar feature. Remember that when we are working with content that has not been flexed, we will refer to the d-flex class, we will not have to call for that class when we are using other classes like the justify-content or the text-align properties.
 64. Walk through the bootstrap docs for this section to better understand the method of the styling. Apply different styles by searching through the docs for the source code that we want to apply.
 65. Test and run the code that we have created. Comment around the new code that we have used within this section.
-66. 
+66. Continue the video lecture and the code along walk throughs. Detail the content as we progress. Understanding the changes with the grid system of bs4.
+67. Complete the entire video lecture and code along learning sessions: changes of bootstrap four.
+68. Save all changes. Update final README line for the course content of this lecture. Close line. 
 
